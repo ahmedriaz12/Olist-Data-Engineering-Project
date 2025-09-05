@@ -74,4 +74,4 @@ One thing to note about the scripts is the `.set_upstream()` method applied to t
 
 But there you have it! This is a pretty simple pipeline, and shows how powerful Airflow can be in its ability to schedule various jobs using a variety of technologies like python and Spark. This only scratches the surface of what's capable with Airflow. 
 
-The next step in this process is incorporating AWS EMR into the pipeline to run the Spark job on a cluster instead of locally on my machine. Stay tuned for updates
+The next step in this process is incorporating AWS EMR into the pipeline to run the Spark job on a cluster instead of locally on my machine. Stay tuned for updates!
